@@ -1,4 +1,3 @@
-#Program ini berlisensi CC-BY-SA
 #Nama program PySerIno
 #Dikoding oleh Febri CS
 
